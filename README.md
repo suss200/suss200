@@ -6,17 +6,12 @@
 ███████║███████╗██████╔╝
 ██╔══██║╚════██║██╔══██╗
 ██║  ██║███████║██║  ██║
-╚═╝  ╚═╝╚══════╝╚══════╝
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-```text
-suss200@github:~$ whoami
-
-name     : suss200
-focus    : Web Development / Backend / Discord
-platform : Linux
-status   : Building & Learning
-```
+<p>
+  <strong>BUILD · LEARN · BREAK · REBUILD</strong>
+</p>
 
 </div>
 
@@ -31,7 +26,7 @@ I build web applications, backend systems,
 Discord bots and database-driven projects.
 
 I learn by building real projects, debugging problems,
-and understanding how things work.
+and understanding how things work under the hood.
 
 Currently focused on full-stack development,
 backend architecture and building better systems.
@@ -39,17 +34,15 @@ backend architecture and building better systems.
 
 ---
 
-## `02 / stack`
-
-### Languages
+## `02 / languages`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/SQL-65%25-06B6D4?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Bash-60%25-39D353?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&labelColor=0D1117&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=for-the-badge&labelColor=0D1117&logo=typescript&logoColor=3178C6">
+<img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/SQL-65%25-06B6D4?style=for-the-badge&labelColor=0D1117&logo=mysql&logoColor=06B6D4">
+<img src="https://img.shields.io/badge/Bash-60%25-39D353?style=for-the-badge&labelColor=0D1117&logo=gnubash&logoColor=39D353">
 
 </div>
 
@@ -61,18 +54,22 @@ SQL           █████████████░░░░░░░  65%
 Bash          ████████████░░░░░░░░  60%
 ```
 
+---
+
+## `03 / technologies`
+
 ### Frontend
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
 <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
 
 </div>
 
-### Backend
+### Backend & Database
 
 <div align="center">
 
@@ -83,7 +80,7 @@ Bash          ████████████░░░░░░░░  60%
 
 </div>
 
-### Tools
+### Tools & Environment
 
 <div align="center">
 
@@ -91,21 +88,22 @@ Bash          ████████████░░░░░░░░  60%
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624">
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
-<img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=58E1FF">
+<img src="https://img.shields.io/badge/Zed-0D1117?style=for-the-badge&logo=zedindustries&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=5C2D91">
 
 </div>
 
 ---
 
-## `03 / projects`
+## `04 / projects`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
+┌─ projects ───────────────────────────────────────────────────┐
 │                                                              │
 │  QSYNC                                                       │
 │  ─────                                                       │
-│  A web platform built with Next.js and TypeScript.            │
+│  Web platform built with Next.js, TypeScript,                │
+│  Prisma and MariaDB.                                         │
 │                                                              │
 │  Next.js • React • TypeScript • Prisma • MariaDB             │
 │                                                              │
@@ -131,46 +129,52 @@ Bash          ████████████░░░░░░░░  60%
 
 ---
 
-## `04 / currently-learning`
+## `05 / currently`
+
+<div align="center">
 
 ```text
-suss200@github:~/learning$ cat roadmap.txt
-
-[+] Next.js
-[+] React
-[+] Node.js
-[+] Discord.js
-[+] Prisma
-[+] MariaDB
-[~] TypeScript
-[~] Authentication
-[~] Backend architecture
-[~] Database design
-[ ] Advanced TypeScript
-[ ] Better system architecture
-```
-
----
-
-## `05 / environment`
-
-```text
-┌─ system ─────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  OS          Linux                                           │
-│  WM          Hyprland                                       │
-│  Shell       Bash / Zsh                                     │
-│  Editor      VS Code                                        │
-│  Runtime     Node.js                                        │
-│  Database    MariaDB                                        │
-│  VCS         Git                                             │
+│  CURRENTLY BUILDING                                          │
+│                                                              │
+│  [+] Full-stack applications                                 │
+│  [+] Discord systems                                         │
+│  [+] Authentication & sessions                               │
+│  [+] Database-driven applications                            │
+│                                                              │
+│  CURRENTLY LEARNING                                           │
+│                                                              │
+│  [~] TypeScript                                               │
+│  [~] Backend architecture                                    │
+│  [~] Database design                                         │
+│  [~] Better system architecture                              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
-## `06 / github`
+## `06 / environment`
+
+<div align="center">
+
+| Environment | Stack |
+|:---:|:---|
+| **OS** | Linux |
+| **Runtime** | Node.js |
+| **Shell** | Bash / Zsh |
+| **Editors** | Zed / Visual Studio |
+| **Database** | MariaDB |
+| **VCS** | Git |
+
+</div>
+
+---
+
+## `07 / github`
 
 <div align="center">
 
@@ -182,7 +186,7 @@ suss200@github:~/learning$ cat roadmap.txt
 
 ---
 
-## `07 / activity`
+## `08 / activity`
 
 <div align="center">
 
@@ -191,18 +195,6 @@ suss200@github:~/learning$ cat roadmap.txt
 </div>
 
 ---
-
-## `08 / status`
-
-```text
-┌─ suss200@github ──────────────────────────────────────────────┐
-│                                                              │
-│  BUILDING       ███████████████████████░░░  ACTIVE           │
-│  LEARNING       ███████████████████░░░░░░  ACTIVE           │
-│  EXPERIMENTING  ████████████████░░░░░░░░░  ACTIVE            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 <div align="center">
 
