@@ -88,10 +88,9 @@ Bash          ████████████░░░░░░░░  60%
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624">
-<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6">
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=0078D6">
 <img src="https://img.shields.io/badge/Zed-0D1117?style=for-the-badge&logo=zedindustries&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=5C2D91">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logoColor=5C2D91">
 
 </div>
 
@@ -99,35 +98,34 @@ Bash          ████████████░░░░░░░░  60%
 
 ## `04 / projects`
 
-```text
-┌─ projects ───────────────────────────────────────────────────┐
-│                                                              │
-│  QSYNC                                                       │
-│  ─────                                                       │
-│  Web platform built with Next.js, TypeScript,                │
-│  Prisma and MariaDB.                                         │
-│                                                              │
-│  Next.js • React • TypeScript • Prisma • MariaDB             │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  DISCORD SYSTEMS                                              │
-│  ───────────────                                              │
-│  Discord bots and systems built for real communities.        │
-│                                                              │
-│  Moderation • Registration • Tickets • Logging • Dashboards   │
-│                                                              │
-│  Node.js • Discord.js • MariaDB                               │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  EXPERIMENTS                                                  │
-│  ───────────                                                  │
-│  Small projects used to learn, test ideas and explore        │
-│  different technologies.                                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 QSYNC
+Web platform built with Next.js, TypeScript, Prisma and MariaDB.
+
+<sub>**Stack:** Next.js • React • TypeScript • Prisma • MariaDB</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Discord Systems
+Discord bots and systems built for real communities.
+
+<sub>**Modules:** Moderation • Registration • Tickets • Logging • Dashboards</sub>
+<br>
+<sub>**Stack:** Node.js • Discord.js • MariaDB</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🧪 Experiments** — small projects used to learn, test ideas and explore different technologies.
+
+</div>
 
 ---
 
