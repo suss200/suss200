@@ -103,19 +103,22 @@ Bash          ████████████░░░░░░░░  60%
 <td width="50%" valign="top">
 
 ### 🔗 QSYNC
-Web platform built with Next.js, TypeScript, Prisma and MariaDB.
+Web platform for Discord tournament management — built with Next.js, TypeScript, Prisma and MariaDB.
 
-<sub>**Stack:** Next.js • React • TypeScript • Prisma • MariaDB</sub>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=fff">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=fff">
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Discord Systems
-Discord bots and systems built for real communities.
+Discord bots and systems built for real communities — moderation, registration, tickets, logging and dashboards.
 
-<sub>**Modules:** Moderation • Registration • Tickets • Logging • Dashboards</sub>
-<br>
-<sub>**Stack:** Node.js • Discord.js • MariaDB</sub>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=fff">
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=fff">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=fff">
 
 </td>
 </tr>
@@ -169,28 +172,6 @@ Discord bots and systems built for real communities.
 | **Editors** | Zed / Visual Studio |
 | **Database** | MariaDB |
 | **VCS** | Git |
-
-</div>
-
----
-
-## `07 / github`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suss200&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=BC8CFF&border_color=30363D" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suss200&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" height="170">
-
-</div>
-
----
-
-## `08 / activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suss200&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=39D353&area=true&hide_border=true">
 
 </div>
 
