@@ -101,12 +101,12 @@ Bash          ████████████░░░░░░░░  60%
 > ### 🔗 QSYNC
 > Web platform for Discord tournament management — built with Next.js, TypeScript, Prisma and MariaDB.
 >
-> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square"> <img src="https://img.shields.io/badge/React-3178C6?style=flat-square"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square">
+> <img src="https://img.shields.io/badge/Next.js-000000?style=flat"> <img src="https://img.shields.io/badge/React-3178C6?style=flat"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat">
 
 > ### 🤖 Discord Systems
 > Discord bots and systems built for real communities — moderation, registration, tickets, logging and dashboards.
 >
-> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square"> <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square">
+> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat"> <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat">
 
 > ### 🧪 Experiments
 > Small projects used to learn, test ideas and explore different technologies.
