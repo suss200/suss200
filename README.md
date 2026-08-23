@@ -88,8 +88,10 @@ Bash          ████████████░░░░░░░░  60%
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6">
 <img src="https://img.shields.io/badge/Zed-0D1117?style=for-the-badge&logo=zedindustries&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=5C2D91">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
 
 </div>
 
@@ -163,9 +165,9 @@ Bash          ████████████░░░░░░░░  60%
 
 | Environment | Stack |
 |:---:|:---|
-| **OS** | Linux |
+| **OS** | Linux / Windows |
 | **Runtime** | Node.js |
-| **Shell** | Bash / Zsh |
+| **Shell** | Bash / Zsh / PowerShell |
 | **Editors** | Zed / Visual Studio |
 | **Database** | MariaDB |
 | **VCS** | Git |
