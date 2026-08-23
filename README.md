@@ -1,217 +1,207 @@
-# suss200
-
 <div align="center">
 
 ```text
-███████╗██╗   ██╗███████╗███████╗
-██╔════╝██║   ██║██╔════╝██╔════╝
-███████╗██║   ██║███████╗███████╗
-╚════██║██║   ██║╚════██║╚════██║
-███████║╚██████╔╝███████║███████║
-╚══════╝ ╚═════╝ ╚══════╝╚══════╝
+ █████╗ ███████╗██████╗
+██╔══██╗██╔════╝██╔══██╗
+███████║███████╗██████╔╝
+██╔══██║╚════██║██╔══██╗
+██║  ██║███████║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-             2 0 0
+```text
+suss200@github:~$ whoami
+
+name     : suss200
+focus    : Web Development / Backend / Discord
+platform : Linux
+status   : Building & Learning
 ```
 
 </div>
 
-```text
-┌─[ suss200@github ]──────────────────────────────────────────────┐
-│                                                                 │
-│  name       suss200                                             │
-│  role       Developer                                           │
-│  focus      Web Development / Backend / Discord Systems        │
-│  environment Linux                                               │
-│  editor     VS Code                                             │
-│  status     Learning & Building                                │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+---
 
-## `~/about`
+## `01 / about`
 
 ```text
-$ cat about.txt
-
 > I'm suss200.
 
-> I build web applications, backend systems,
-  Discord bots and database-driven projects.
+I build web applications, backend systems,
+Discord bots and database-driven projects.
 
-> Most of what I learn comes from building,
-  debugging and figuring things out along the way.
+I learn mainly by building real projects,
+debugging problems and understanding how things work.
 
-> Currently focused on becoming better at
-  full-stack development and backend architecture.
-
-$ _
+Currently focused on becoming stronger at
+full-stack development and backend architecture.
 ```
 
-## `~/languages`
+---
 
-```text
-┌─ Understanding ────────────────────────────────────────────────┐
-│                                                                 │
-│  JavaScript     █████████████████░░░░░  85%   strong           │
-│  TypeScript     ███████████████░░░░░░░  75%   good             │
-│  Bash           ████████████░░░░░░░░░░  60%   comfortable      │
-│  Python         █████████████░░░░░░░░░  65%   intermediate     │
-│  SQL            █████████████░░░░░░░░░  65%   intermediate     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+## `02 / stack`
 
-## `~/stack`
-
-```text
-┌─ Web ───────────────────────┬─ Backend ─────────────────────────┐
-│                             │                                   │
-│  Next.js                    │  Node.js                          │
-│  React                      │  Discord.js                      │
-│  TypeScript                 │  Prisma                          │
-│  Tailwind CSS               │  MariaDB                         │
-│                             │  REST APIs                       │
-│                             │                                   │
-└─────────────────────────────┴───────────────────────────────────┘
-
-┌─ Tools ─────────────────────┬─ Environment ────────────────────┐
-│                             │                                   │
-│  Git                        │  Linux                           │
-│  GitHub                     │  Hyprland                        │
-│  Docker                     │  Bash / Zsh                      │
-│  VS Code                    │                                   │
-│                             │                                   │
-└─────────────────────────────┴───────────────────────────────────┘
-```
-
-## `~/projects`
-
-```text
-$ ls -la ~/projects
-
-drwxr-xr-x  qsync/
-drwxr-xr-x  discord-systems/
-drwxr-xr-x  experiments/
-```
-
-### `qsync`
-
-```text
-Web platform built with Next.js and TypeScript.
-
-Stack
-─────
-Next.js
-TypeScript
-React
-Prisma
-MariaDB
-Authentication
-```
-
-### `discord-systems`
-
-```text
-Discord bots and systems built for real communities.
-
-Features
-────────
-Moderation
-Registration
-Tickets
-Logging
-Permissions
-Dashboards
-
-Stack
-─────
-Node.js
-Discord.js
-MariaDB
-```
-
-### `experiments`
-
-```text
-Small projects used to learn new technologies,
-test ideas and understand how things work.
-```
-
-## `~/currently-learning`
-
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  [01] Backend architecture                                     │
-│                                                                 │
-│  [02] Authentication & sessions                                │
-│                                                                 │
-│  [03] Database design                                          │
-│                                                                 │
-│  [04] Next.js application architecture                          │
-│                                                                 │
-│  [05] Writing cleaner TypeScript                               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-## `~/environment`
-
-```text
-$ neofetch --user
-
-user        : suss200
-OS          : Linux
-WM          : Hyprland
-shell       : Bash / Zsh
-editor      : VS Code
-runtime     : Node.js
-database    : MariaDB
-vcs         : Git
-platforms   : GitHub / Discord
-```
-
-## `~/github`
+### Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suss200&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=8957e5" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suss200&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=58a6ff&text_color=8b949e" height="170"/>
+<img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/SQL-65%25-4479A1?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Bash-60%25-4EAA25?style=for-the-badge&labelColor=0D1117">
 
 </div>
 
-## `~/activity`
+```text
+JavaScript     █████████████████░░░░░  85%
+TypeScript     ███████████████░░░░░░░  75%
+Python         █████████████░░░░░░░░░  65%
+SQL            █████████████░░░░░░░░░  65%
+Bash           ████████████░░░░░░░░░░  60%
+```
+
+### Web
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suss200&bg_color=00000000&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6">
 
 </div>
 
-## `~/status`
+### Backend
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=5FA04E">
+<img src="https://img.shields.io/badge/Discord.js-0F172A?style=for-the-badge&logo=discord&logoColor=5865F2">
+<img src="https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/MariaDB-0F172A?style=for-the-badge&logo=mariadb&logoColor=C0765A">
+
+</div>
+
+### Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Hyprland-0F172A?style=for-the-badge&logo=hyprland&logoColor=58E1FF">
+
+</div>
+
+---
+
+## `03 / projects`
 
 ```text
-┌─[ suss200@github ]──────────────────────────────────────────────┐
-│                                                                 │
-│  learning      ████████████████████░░░░░░░  active             │
-│  building      █████████████████████░░░░░░  active             │
-│  experimenting ████████████████░░░░░░░░░░░  active             │
-│  shipping      ███████████████░░░░░░░░░░░░  improving          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  QSYNC                                                       │
+│  ─────                                                       │
+│  A web platform built with modern web technologies.          │
+│                                                              │
+│  Next.js • TypeScript • React • Prisma • MariaDB             │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  DISCORD SYSTEMS                                              │
+│  ───────────────                                              │
+│  Discord bots and systems for real communities.              │
+│                                                              │
+│  Moderation • Registration • Tickets • Logging • Dashboards   │
+│                                                              │
+│  Node.js • Discord.js • MariaDB                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-```text
-$ echo "build • learn • break • rebuild"
+---
 
+## `04 / currently-learning`
+
+```text
+suss200@github:~/learning$ cat roadmap.txt
+
+[+] Next.js
+[+] React
+[+] Discord.js
+[+] Prisma
+[+] MariaDB
+[~] TypeScript
+[~] Authentication
+[~] Backend architecture
+[~] Database design
+[ ] Advanced TypeScript
+[ ] Better system architecture
+```
+
+---
+
+## `05 / environment`
+
+```text
+┌─ system ─────────────────────────────────────────────────────┐
+│                                                              │
+│  OS          Linux                                           │
+│  WM          Hyprland                                       │
+│  Shell       Bash / Zsh                                     │
+│  Editor      VS Code                                        │
+│  Runtime     Node.js                                        │
+│  Database    MariaDB                                        │
+│  VCS         Git                                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `06 / github`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suss200&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=BC8CFF&border_color=30363D" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suss200&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" height="170">
+
+</div>
+
+---
+
+## `07 / activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suss200&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=39D353&area=true&hide_border=true">
+
+</div>
+
+---
+
+## `08 / status`
+
+```text
+┌─ suss200@github ──────────────────────────────────────────────┐
+│                                                              │
+│  BUILDING       ███████████████████████░░░  ACTIVE           │
+│  LEARNING       ███████████████████░░░░░░  ACTIVE           │
+│  EXPERIMENTING  ████████████████░░░░░░░░░  ACTIVE           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+```text
 build • learn • break • rebuild
 
-suss200@github:~$
+suss200@github:~$ _
 ```
-
-<div align="center">
-
-[ GitHub ] · [ Discord ] · [ Projects ]
 
 </div>
