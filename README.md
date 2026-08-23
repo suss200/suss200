@@ -10,128 +10,168 @@
 ███████║╚██████╔╝███████║███████║
 ╚══════╝ ╚═════╝ ╚══════╝╚══════╝
 
-            [ 2 0 0 ]
-```
-
-```text
-suss200@github:~$ whoami
-
-name       : suss200
-role       : Developer
-focus      : Web • Backend • Discord Systems
-environment: Linux
-status     : Learning & Building
+             2 0 0
 ```
 
 </div>
 
-## 👋 About Me
-
-I'm **suss200**, a developer interested in building web applications, backend systems, and Discord bots.
-
-I enjoy taking an idea, figuring out how it works, and turning it into something usable.
-
-Currently learning more about **backend development, databases, authentication, and modern web development**.
-
-> Build • Learn • Break • Rebuild
-
----
-
-## 🧠 What I Work With
-
-### Languages
-
 ```text
-JavaScript     █████████████████░░░░░  85%
-TypeScript     ███████████████░░░░░░░  75%
-Bash           ██████████████░░░░░░░░  70%
-Python         █████████████░░░░░░░░░  65%
-SQL            █████████████░░░░░░░░░  65%
+┌─[ suss200@github ]──────────────────────────────────────────────┐
+│                                                                 │
+│  name       suss200                                             │
+│  role       Developer                                           │
+│  focus      Web Development / Backend / Discord Systems        │
+│  environment Linux                                               │
+│  editor     VS Code                                             │
+│  status     Learning & Building                                │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-### Web Development
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-
-### Tools & Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge\&logo=hyprland\&logoColor=black)
-
----
-
-## 🚀 Projects
-
-### QSYNC
-
-A web platform I'm building with a focus on modern web development and backend integration.
-
-**Stack:** `Next.js` `TypeScript` `Prisma` `MariaDB`
-
-### Discord Systems
-
-Discord bots and systems for communities, including moderation, registration, tickets, logging and dashboards.
-
-**Stack:** `Node.js` `Discord.js` `MariaDB`
-
-### Experiments
-
-Small projects and experiments where I learn new technologies, test ideas, and figure out how things work.
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-| Area              | Focus                             |
-| ----------------- | --------------------------------- |
-| 🌐 Web            | Next.js & React                   |
-| ⚙️ Backend        | APIs & Server Architecture        |
-| 🗄️ Database      | SQL, MariaDB & Prisma             |
-| 🔐 Authentication | Sessions, OAuth & Account Systems |
-| 🤖 Discord        | Bots, Systems & Integrations      |
-| 🐧 Linux          | Daily Development Environment     |
-
-</div>
-
----
-
-## 💻 My Environment
+## `~/about`
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                    suss200@linux                         │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  OS          Linux                                       │
-│  Shell       Bash / Zsh                                  │
-│  Editor      VS Code                                     │
-│  WM          Hyprland                                    │
-│  Runtime     Node.js                                     │
-│  Database    MariaDB                                     │
-│  VCS         Git                                         │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+$ cat about.txt
+
+> I'm suss200.
+
+> I build web applications, backend systems,
+  Discord bots and database-driven projects.
+
+> Most of what I learn comes from building,
+  debugging and figuring things out along the way.
+
+> Currently focused on becoming better at
+  full-stack development and backend architecture.
+
+$ _
 ```
 
----
+## `~/languages`
 
-## 📊 GitHub
+```text
+┌─ Understanding ────────────────────────────────────────────────┐
+│                                                                 │
+│  JavaScript     █████████████████░░░░░  85%   strong           │
+│  TypeScript     ███████████████░░░░░░░  75%   good             │
+│  Bash           ████████████░░░░░░░░░░  60%   comfortable      │
+│  Python         █████████████░░░░░░░░░  65%   intermediate     │
+│  SQL            █████████████░░░░░░░░░  65%   intermediate     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## `~/stack`
+
+```text
+┌─ Web ───────────────────────┬─ Backend ─────────────────────────┐
+│                             │                                   │
+│  Next.js                    │  Node.js                          │
+│  React                      │  Discord.js                      │
+│  TypeScript                 │  Prisma                          │
+│  Tailwind CSS               │  MariaDB                         │
+│                             │  REST APIs                       │
+│                             │                                   │
+└─────────────────────────────┴───────────────────────────────────┘
+
+┌─ Tools ─────────────────────┬─ Environment ────────────────────┐
+│                             │                                   │
+│  Git                        │  Linux                           │
+│  GitHub                     │  Hyprland                        │
+│  Docker                     │  Bash / Zsh                      │
+│  VS Code                    │                                   │
+│                             │                                   │
+└─────────────────────────────┴───────────────────────────────────┘
+```
+
+## `~/projects`
+
+```text
+$ ls -la ~/projects
+
+drwxr-xr-x  qsync/
+drwxr-xr-x  discord-systems/
+drwxr-xr-x  experiments/
+```
+
+### `qsync`
+
+```text
+Web platform built with Next.js and TypeScript.
+
+Stack
+─────
+Next.js
+TypeScript
+React
+Prisma
+MariaDB
+Authentication
+```
+
+### `discord-systems`
+
+```text
+Discord bots and systems built for real communities.
+
+Features
+────────
+Moderation
+Registration
+Tickets
+Logging
+Permissions
+Dashboards
+
+Stack
+─────
+Node.js
+Discord.js
+MariaDB
+```
+
+### `experiments`
+
+```text
+Small projects used to learn new technologies,
+test ideas and understand how things work.
+```
+
+## `~/currently-learning`
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  [01] Backend architecture                                     │
+│                                                                 │
+│  [02] Authentication & sessions                                │
+│                                                                 │
+│  [03] Database design                                          │
+│                                                                 │
+│  [04] Next.js application architecture                          │
+│                                                                 │
+│  [05] Writing cleaner TypeScript                               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## `~/environment`
+
+```text
+$ neofetch --user
+
+user        : suss200
+OS          : Linux
+WM          : Hyprland
+shell       : Bash / Zsh
+editor      : VS Code
+runtime     : Node.js
+database    : MariaDB
+vcs         : Git
+platforms   : GitHub / Discord
+```
+
+## `~/github`
 
 <div align="center">
 
@@ -141,36 +181,37 @@ Small projects and experiments where I learn new technologies, test ideas, and f
 
 </div>
 
+## `~/activity`
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suss200&bg_color=00000000&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
----
-
-## 🎯 Goals
+## `~/status`
 
 ```text
-[✓] Learn by building real projects
-[✓] Build Discord systems
-[✓] Work with Next.js
-[✓] Work with databases
-[ ] Become stronger at backend architecture
-[ ] Build and ship more projects
-[ ] Keep learning
+┌─[ suss200@github ]──────────────────────────────────────────────┐
+│                                                                 │
+│  learning      ████████████████████░░░░░░░  active             │
+│  building      █████████████████████░░░░░░  active             │
+│  experimenting ████████████████░░░░░░░░░░░  active             │
+│  shipping      ███████████████░░░░░░░░░░░░  improving          │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-<div align="center">
 
 ```text
 $ echo "build • learn • break • rebuild"
 
 build • learn • break • rebuild
+
+suss200@github:~$
 ```
 
-**Thanks for visiting! ⭐**
+<div align="center">
+
+[ GitHub ] · [ Discord ] · [ Projects ]
 
 </div>
