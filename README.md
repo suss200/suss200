@@ -99,16 +99,32 @@ Bash          ████████████░░░░░░░░  60%
 ## `04 / projects`
 
 > ### QSYNC
+>
 > Web platform for Discord tournament management — built with Next.js, TypeScript, Prisma and MariaDB.
 >
 > <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=next.js&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6"> <img src="https://img.shields.io/badge/Prisma-0D1117?style=flat&logo=prisma&logoColor=BC8CFF"> <img src="https://img.shields.io/badge/MariaDB-0D1117?style=flat&logo=mariadb&logoColor=06B6D4">
 
 > ### Discord Systems
+>
 > Discord bots and systems built for real communities — moderation, registration, tickets, logging and dashboards.
 >
 > <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=5FA04E"> <img src="https://img.shields.io/badge/Discord.js-0D1117?style=flat&logo=discord&logoColor=5865F2"> <img src="https://img.shields.io/badge/MariaDB-0D1117?style=flat&logo=mariadb&logoColor=06B6D4">
 
+> ### OSRC Zikr
+>
+> Open-source Arabic platform for daily Islamic Azkar — built with Next.js, TypeScript and Tailwind CSS.
+>
+> <a href="https://github.com/suss200/osrc-zikr">
+>   <img src="https://img.shields.io/badge/GitHub-OSRC%20Zikr-0D1117?style=flat&logo=github&logoColor=FFFFFF">
+> </a>
+> <a href="https://osrcz.vercel.app/">
+>   <img src="https://img.shields.io/badge/Live%20Website-OSRC%20Zikr-0D1117?style=flat&logo=vercel&logoColor=FFFFFF">
+> </a>
+>
+> <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=next.js&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6"> <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=06B6D4">
+
 > ### Experiments
+>
 > Small projects used to learn, test ideas and explore different technologies.
 
 ---
@@ -145,14 +161,14 @@ Bash          ████████████░░░░░░░░  60%
 
 <div align="center">
 
-| Environment | Stack |
-|:---:|:---|
-| **OS** | Linux / Windows |
-| **Runtime** | Node.js |
-| **Shell** | Bash / Zsh / PowerShell |
-| **Editors** | Zed / Visual Studio |
-| **Database** | MariaDB |
-| **VCS** | Git |
+|  Environment | Stack                   |
+| :----------: | :---------------------- |
+|    **OS**    | Linux / Windows         |
+|  **Runtime** | Node.js                 |
+|   **Shell**  | Bash / Zsh / PowerShell |
+|  **Editors** | Zed / Visual Studio     |
+| **Database** | MariaDB                 |
+|    **VCS**   | Git                     |
 
 </div>
 
