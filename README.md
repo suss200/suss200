@@ -172,12 +172,7 @@ Bash          ████████████░░░░░░░░  60%
 
 ## `07 / activity`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suss200&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=39D353&area=true&hide_border=true" alt="suss200's GitHub activity graph">
-
-</div>
-
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suss200&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=39D353&area=true&hide_border=true" alt="suss200's GitHub activity graph"> </div>
 ---
 
 <div align="center">
