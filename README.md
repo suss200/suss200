@@ -174,7 +174,7 @@ Bash          ████████████░░░░░░░░  60%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suss200&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF" alt="suss200's GitHub stats">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suss200&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=39D353&area=true&hide_border=true" alt="suss200's GitHub activity graph">
 
 </div>
 
